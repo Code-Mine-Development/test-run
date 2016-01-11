@@ -30,5 +30,6 @@ for the application.
 
 ## Tasks
 
-1. Create business logic layer using any programming language
+1. Create business logic layer using PHP language
+2. Use PSR-4 and PSR-1 standards
 2. Save all the files on desktop in folder with date and your name
