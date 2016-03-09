@@ -11,7 +11,7 @@
 
 ## Task
 1. Create class `Famillio\Model\Person\Biography\Fact\LifeEvent\Wedding`
-2. Create Interfaca `Famillio\Model\Person\Biography\Fact\MaritalStatusChangeFactInterface`
+2. Create Interface `Famillio\Model\Person\Biography\Fact\MaritalStatusChangeFactInterface`
 3. Interface `MaritalStatusChangeFactInterface` should have method for retrieving name of the person that is also involved in the event.
 4. Class should extend `AbstractFact` class
 5. Class should implement `MaritalStatusChangeFactInterface`
