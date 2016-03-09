@@ -2,7 +2,8 @@
 
 ## Steps to complete the task
 1. Fork https://github.com/Code-Mine-Development/Famil.io repository to your personal account
-2. Create branch `feature/WeddingLifeFact`
+2. Clone forked repository 
+3. Create branch `feature/WeddingLifeFact`
 
 ## Requirements
 1. Use PSR-4 standard
@@ -16,6 +17,8 @@
 4. Class should extend `AbstractFact` class
 5. Class should implement `MaritalStatusChangeFactInterface`
 6. Class should be used to create objects that represent fact of the wedding - this requires implementation of all methods from Interfaces and `AbstractFact` class
+7. Push changes to branch created in your forked repository
+8. Create pull request to main repository
 
 
 ## Technical info
