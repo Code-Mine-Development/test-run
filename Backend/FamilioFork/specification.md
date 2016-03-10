@@ -26,6 +26,8 @@
 1. Push changes to branch created in your forked repository
 2. Create pull request to main repository
 
+**NOTE**: Task C is required to begin the review of rest of the tasks.
+
 
 ## Technical info
 - You can use internet and any sources that will help you
