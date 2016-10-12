@@ -1,6 +1,6 @@
 # Java Script test task
 
-Create simple application, using Java Script framework of your choice that will utilize Flick API to show photos.
+Create simple application, using Java Script framework of your choice that will utilize Flickr API to show photos.
 
 ## Requirements
 1. Use SOLID principals
