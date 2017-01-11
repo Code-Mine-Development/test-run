@@ -32,4 +32,5 @@ for the application.
 
 1. Create **business logic** layer using PHP language
 2. Use PSR-4 and PSR-1 standards
-2. Save all the files on desktop in folder with date and your name
+3. Create GitHub repository with all the files prepared for the project and send link to that repository via email
+
