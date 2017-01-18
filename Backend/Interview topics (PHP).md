@@ -1,6 +1,6 @@
 # Interview topics (PHP)
 Following terminology can be discussed during the interview. Use all avaliabe to you sources (internet/books/etc.) to 
-prepare youself for possible questions.
+prepare youself for possible questions. Secion order is random and do not reflect difficulty or complexity of different topics.
 
 ## Section 0 - OOP Principals
 - SOLID principals
