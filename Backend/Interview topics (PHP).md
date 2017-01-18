@@ -6,6 +6,13 @@ If some of the terms, solutions or tools are something completly new to you, don
 
 Get fimiliar with topis that were mentioned in sections listed in email with invitation for interview. If you have knowelage of topics described in sections outside the scope of those listed in the invitation, reply with such information.
 
+In most cases, questions regarding majority of terms will be divided into three types:
+
+- What it is
+- What it is for
+- Can you describe it in your own words
+- Did you worked with such technology/approach/tool/etc.
+
 ***
 ## Section 0 - OOP Principals
 - SOLID principals
