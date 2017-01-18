@@ -2,8 +2,8 @@
 
 - [Collections](#collection)
  - [1.0 - Base Collection](#10-base-collection)
- - [1.1 - Sortable Collection](#1.1---Sortable-Collection)
- - [1.2 - Strict instance Collection](#1.2---Strict-instance-Collection)
+ - [1.1 - Sortable Collection](#11-Sortable-Collection)
+ - [1.2 - Strict instance Collection](#12-Strict-instance-Collection)
 
 ## Collection
 ### 1.0 - Base Collection
