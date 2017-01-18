@@ -1,5 +1,7 @@
 # Implementation test - PHP
 
+Each test is composed of one or more tasks. Test is considered completed when all tasks are resolved.
+
 - [1 - Collections](#1---collection)
  - [1.0 - Base Collection](#10---base-collection)
  - [1.1 - Sortable Collection](#11---sortable-collection)
@@ -9,9 +11,6 @@
 ***
 ## 1 - Collection
 ### 1.0 - Base Collection
-
-To complete Collection test, solve all 4 tasks that are described below.
-
 #### Task A - Create interface `ItemInterface` that will specify following methods:
 
 - [ ] `getName() : string`
