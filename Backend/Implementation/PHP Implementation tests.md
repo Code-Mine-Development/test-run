@@ -39,6 +39,7 @@ Collection class needs to meet following requirements:
 - [ ] Collection needs to be able to return all stored items as array.
 
 #### Task D - Upload working code to GitHub repository and send link to the repository via email.
+***
 ### 1.1 - Sortable Collection
 
 #### Task A - Modify code from test 1.0 - Collection to comply with following requirements:
@@ -47,6 +48,7 @@ Collection class needs to meet following requirements:
 - [ ] Collection needs to return new instance of itself with all items sorted by name in ascending order when `sortByName()` method is invoked.
 
 #### Task B - Upload working code separate to GitHub repository and send link to the repository via email.
+***
 ### 1.2 - Strict instance Collection
 
 #### Task A - Modify code from test 1.1 - Collection to comply with following requirements:
