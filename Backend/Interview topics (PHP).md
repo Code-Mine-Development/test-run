@@ -13,6 +13,8 @@ In most cases, questions regarding majority of terms will be divided into four t
 3. Can you describe it in your own words
 4. Did you worked with such technology/approach/tool/etc.
 
+***
+
 **Sections**
   * [Section 0 - OOP Principals](#section-0---oop-principals)
   * [Section 1 - Frameworks](#section-1---frameworks)
