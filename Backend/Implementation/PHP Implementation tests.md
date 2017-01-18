@@ -1,7 +1,7 @@
 # Implementation test - PHP
 
-- [Collections](#Collection)
- - [1.0 - Base Collection](#1.0---Base-Collection)
+- [Collections](#collection)
+ - [1.0 - Base Collection](#10-base-collection)
  - [1.1 - Sortable Collection](#1.1---Sortable-Collection)
  - [1.2 - Strict instance Collection](#1.2---Strict-instance-Collection)
 
