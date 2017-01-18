@@ -71,4 +71,18 @@ prepare youself for possible questions.
 - Continous integration
 - Git operations (merge/rebase/reset)
 
+## Section 12 - PHP Language
+- Closures
+- Generators
+- Throwables/Engine Exceptions/Exceptions
+- Triats
+
+## Section 13 - SQL Basic
+- Approaches for DB interaction from PHP
+- JOIN types
+- Views
+
+## Section 14 - SQL Advanced
+- Differences between MySQL and PostgreSQL
+- Indexes optimalizations
 
