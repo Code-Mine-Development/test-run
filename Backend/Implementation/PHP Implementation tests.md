@@ -12,19 +12,19 @@ Each test is composed of one or more tasks. Test is considered completed when al
 ## 1 - Collection
 ### 1.0 - Base Collection
 #### Task A
-**Create interface `ItemInterface` that will specify following methods:**
+Create interface `ItemInterface` that will specify following methods:
 
 - [ ] `getName() : string`
 - [ ] `getPrice() : int`
 
 
 #### Task B
-**Create interface `ItemFilterInterface`. Classes that will be implementing this interface will be used to filter collections. Interface needs to specify following method:**
+Create interface `ItemFilterInterface`. Classes that will be implementing this interface will be used to filter collections. Interface needs to specify following method:
 
 - [ ] `itemIsCompatibleWithFilter(ItemInterface $item) : bool`
 
 #### Task C
-**Implement immutable collection class that will be capable of storing objects that implement `ItemInterface`. Objects that do not implement this interface cannot be added to the collection.**
+Implement immutable collection class that will be capable of storing objects that implement `ItemInterface`. Objects that do not implement this interface cannot be added to the collection.
 
 
 
@@ -42,18 +42,18 @@ Collection class needs to meet following requirements:
 - [ ] Collection needs to be able to return all stored items as array.
 
 #### Task D
-**Upload working code to GitHub repository and send link to the repository via email.**
+Upload working code to GitHub repository and send link to the repository via email.
 ***
 ### 1.1 - Sortable Collection
 
 #### Task A
-**Modify code from test 1.0 - Collection to comply with following requirements:**
+Modify code from test 1.0 - Collection to comply with following requirements:
 
 - [ ] Collection needs to return new instance of itself with all items sorted by price in ascending order when `sortByPrice()` method is invoked.
 - [ ] Collection needs to return new instance of itself with all items sorted by name in ascending order when `sortByName()` method is invoked.
 
 #### Task B
-**Upload working code separate to GitHub repository and send link to the repository via email.**
+Upload working code separate to GitHub repository and send link to the repository via email.
 ***
 ### 1.2 - Strict instance Collection
 
@@ -63,17 +63,17 @@ Collection class needs to meet following requirements:
 - [ ] Items stored in the Collection are considered identical when both reference the same instance.
 
 #### Task B
-**Upload working code separate to GitHub repository and send link to the repository via email.**
+Upload working code separate to GitHub repository and send link to the repository via email.
 
 ***
 
 ### 1.3 - Unit tests for Collection
 
 #### Task A
-**Create test suite with 100% coverage for Collection class.**
+Create test suite with 100% coverage for Collection class.
 
 #### Task B
-**Upload working code separate to GitHub repository and send link to the repository via email.**
+Upload working code separate to GitHub repository and send link to the repository via email.
 
 
  
