@@ -2,6 +2,9 @@
 Following terminology can be discussed during the interview. Use all avaliabe to you sources (internet/books/etc.) to 
 prepare youself for possible questions. Secion order is random and do not reflect difficulty or complexity of different topics.
 
+Get fimiliar with topis that were mentioned in sections listed in email with invitation for interview. If you have knowelage of topics described in sections outside the scope of those listed in the invitation, reply with such information.
+
+
 ## Section 0 - OOP Principals
 - SOLID principals
 - DRY
