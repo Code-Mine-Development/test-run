@@ -1,11 +1,12 @@
 # Implementation test - PHP
 
-- [Collections](#collection)
+- [1 - Collections](#1---collection)
  - [1.0 - Base Collection](#10---base-collection)
- - [1.1 - Sortable Collection](#11---Sortable-Collection)
- - [1.2 - Strict instance Collection](#12---Strict-instance-Collection)
+ - [1.1 - Sortable Collection](#11---sortable-collection)
+ - [1.2 - Strict instance Collection](#12---strict-instance-collection)
 
-## Collection
+***
+## 1 - Collection
 ### 1.0 - Base Collection
 
 To complete Collection test, solve all 4 tasks that are described below.
@@ -38,9 +39,6 @@ Collection class needs to meet following requirements:
 - Collection needs to be able to return all stored items as array.
 
 #### Task D - Upload working code to GitHub repository and send link to the repository via email.
-
-***
-
 ### 1.1 - Sortable Collection
 
 #### Task A - Modify code from test 1.0 - Collection to comply with following requirements:
@@ -49,8 +47,6 @@ Collection class needs to meet following requirements:
 - Collection needs to return new instance of itself with all items sorted by name in ascending order when `sortByName()` method is invoked.
 
 #### Task B - Upload working code separate to GitHub repository and send link to the repository via email.
-
-***
 ### 1.2 - Strict instance Collection
 
 #### Task A - Modify code from test 1.1 - Collection to comply with following requirements:
