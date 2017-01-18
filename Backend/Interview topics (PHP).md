@@ -13,6 +13,29 @@ In most cases, questions regarding majority of terms will be divided into four t
 3. Can you describe it in your own words
 4. Did you worked with such technology/approach/tool/etc.
 
+** Sections **
+  * [Section 0 - OOP Principals](#section-0---oop-principals)
+  * [Section 1 - Frameworks](#section-1---frameworks)
+  * [Section 2 - Design patterns](#section-2---design-patterns)
+  * [Section 3 - Development approaches](#section-3---development-approaches)
+  * [Section 4 - Zend Framework](#section-4---zend-framework)
+  * [Section 5 - RESTfull APIs](#section-5---restfull-apis)
+  * [Section 6 - Data structures](#section-6---data-structures)
+  * [Section 7 - Domain Driven Design](#section-7---domain-driven-design)
+  * [Section 8 - Testing and QA](#section-8---testing-and-qa)
+  * [Section 9 - Security](#section-9---security)
+  * [Section 10 - PHP SPL](#section-10---php-spl)
+  * [Section 11 - Teamwork](#section-11---teamwork)
+  * [Section 12 - PHP Language](#section-12---php-language)
+  * [Section 13 - SQL Basic](#section-13---sql-basic)
+  * [Section 14 - SQL Advanced](#section-14---sql-advanced)
+  * [Section 15 - Development tools](#section-15---development-tools)
+  * [Section 16 - Standards](#section-16---standards)
+  * [Section 17 - Data storage / caching](#section-17---data-storage--caching)
+  * [Section 18 - Communication and protocols](#section-18---communication-and-protocols)
+  * [Section 19 - Servers](#section-19---servers)
+  * [Section 20 - Infrastructure / architecture](#section-20---infrastructure--architecture)
+
 ***
 ## Section 0 - OOP Principals
 - SOLID principals
