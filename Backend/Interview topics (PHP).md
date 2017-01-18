@@ -1,4 +1,4 @@
-# Interview topics
+# Interview topics (PHP)
 Following terminology can be discussed during the interview. Use all avaliabe to you sources (internet/books/etc.) to 
 prepare youself for possible questions.
 
@@ -61,5 +61,9 @@ prepare youself for possible questions.
 - Session hijacking prevention
 - XSS prevention
 - SQL injection prevention
+
+## Section 10 - PHP SPL
+- Uses of SPL Object Storage class
+- Advantages/disadvantages of SPL Fixed Array
 
 
