@@ -1,6 +1,6 @@
 # Interview topics (PHP)
 Following terminology can be discussed during the interview. Use all avaliabe to you sources (internet/books/etc.) to 
-prepare youself for possible questions. Secion order is random and do not reflect difficulty or complexity of different topics.
+prepare youself for possible questions. Section order is random and do not reflect difficulty or complexity of different topics.
 
 If some of the terms, solutions or tools are something completly new to you, don't worry - we don't expect you to be an expert, get fimiliar with those and show us that you understand the concept.
 
