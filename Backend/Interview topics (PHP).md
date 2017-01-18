@@ -66,4 +66,9 @@ prepare youself for possible questions.
 - Uses of SPL Object Storage class
 - Advantages/disadvantages of SPL Fixed Array
 
+## Section 11 - Teamwork
+- Gitflow
+- Continous integration
+- Git operations (merge/rebase/reset)
+
 
