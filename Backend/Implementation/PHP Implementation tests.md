@@ -4,6 +4,7 @@
  - [1.0 - Base Collection](#10---base-collection)
  - [1.1 - Sortable Collection](#11---sortable-collection)
  - [1.2 - Strict instance Collection](#12---strict-instance-collection)
+ - [1.3 - Unit tests for Collection](#13---unit-tests-for-collection)
 
 ***
 ## 1 - Collection
@@ -57,7 +58,13 @@ Collection class needs to meet following requirements:
 
 #### Task B - Upload working code separate to GitHub repository and send link to the repository via email.
 
+***
 
+### 1.3 - Unit tests for Collection
+
+#### Task A - Create test suite with 100% coverage for Collection class.
+
+#### Task B - Upload working code separate to GitHub repository and send link to the repository via email.
 
 
  
