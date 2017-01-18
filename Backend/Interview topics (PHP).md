@@ -113,5 +113,8 @@ prepare youself for possible questions. Secion order is random and do not reflec
 - Nginx
 - PHP built in server
 
-
+## Section 20 - Infrastructure / architecture
+- Microservices
+- Load ballancing
+- Auto scaling
 
