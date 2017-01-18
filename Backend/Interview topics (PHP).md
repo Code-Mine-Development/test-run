@@ -49,6 +49,7 @@ prepare youself for possible questions. Secion order is random and do not reflec
 - Domain Events
 - Value Objects
 - Entities
+- Event sourcing
 
 ## Section 8 - Testing and QA
 - Unit testing
@@ -76,6 +77,7 @@ prepare youself for possible questions. Secion order is random and do not reflec
 - Generators
 - Throwables/Engine Exceptions/Exceptions
 - Triats
+- New features of PHP 7 / 7.1
 
 ## Section 13 - SQL Basic
 - Approaches for DB interaction from PHP
@@ -85,4 +87,31 @@ prepare youself for possible questions. Secion order is random and do not reflec
 ## Section 14 - SQL Advanced
 - Differences between MySQL and PostgreSQL
 - Indexes optimalizations
+
+## Section 15 - Development tools
+- Docker
+- Vagrant
+
+## Section 16 - Standards
+- PSR 4
+- PSR 7
+- PSR 1/2
+
+## Section 17 - Data storage / caching
+- MongoDB
+- Redis
+- Memcache
+
+## Section 18 - Communication and protocols
+- RabbitMq
+- Aws SQS
+- ZeroMq
+- Web Sockets
+
+## Section 19 - Servers
+- Apache
+- Nginx
+- PHP built in server
+
+
 
