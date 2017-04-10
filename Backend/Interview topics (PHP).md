@@ -37,6 +37,7 @@ In most cases, questions regarding majority of terms will be divided into four t
   * [Section 18 - Communication and protocols](#section-18---communication-and-protocols)
   * [Section 19 - Servers](#section-19---servers)
   * [Section 20 - Infrastructure / architecture](#section-20---infrastructure--architecture)
+  * [Section 21 - Performence](#section-21---performence)
 
 ***
 ## Section 0 - OOP Principals
@@ -154,4 +155,9 @@ In most cases, questions regarding majority of terms will be divided into four t
 - Microservices
 - Load ballancing
 - Auto scaling
+
+## Section 21 - Performence
+- Opcache
+- Memory usage
+- Autoloading
 
