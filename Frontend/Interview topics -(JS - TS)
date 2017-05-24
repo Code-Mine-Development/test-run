@@ -1,0 +1,85 @@
+# Interview topics (JS - TS)
+Following terminology can be discussed during the interview. Use all avaliabe to you sources (internet/books/etc.) to 
+prepare youself for possible questions. Section order is random and do not reflect difficulty or complexity of different topics.
+
+If some of the terms, solutions or tools are something completly new to you, don't worry - we don't expect you to be an expert, get fimiliar with those and show us that you understand the concept.
+
+Get fimiliar with topis that were mentioned in sections listed in email with invitation for interview. If you have knowelage of topics described in sections outside the scope of those listed in the invitation, reply with such information.
+
+In most cases, questions regarding majority of terms will be divided into four types:
+
+1. What it is
+2. What it is for
+3. Can you describe it in your own words
+4. Did you worked with such technology/approach/tool/etc.
+
+***
+
+## Section 0 - OOP Principals
+- SOLID principals
+- DRY
+- KISS
+
+## Section 1 - Frameworks
+- Angular JS
+- ReactJS
+- VueJS
+- Ember
+
+## Section 2 - Languages / Syntaxes
+- Typescript
+- JavaScript (ES5/6)
+
+## Section 3 - Design patterns
+- Object immutability
+- Observer
+- Factories
+- Reactive programming
+
+## Section 4 - Development approaches
+- Test Driven Development
+- Behaviour Driven Development
+
+## Section 5 - Angular JS
+- Architecture
+- Testing
+- Services
+- Dependency injection
+- Directives
+
+## Section 6 - RESTfull APIs
+- HATEOAS
+- Pourpouse of different HTTP methods 
+- oAuth authentication
+
+## Section 7 - Testing and QA
+- Unit testing
+- Integration testing
+- Acceptance testing
+
+## Section 8 - Teamwork
+- Gitflow
+- Continous integration
+- Git operations (merge/rebase/reset)
+
+## Section 9 - JS/TS Language
+- Maps
+- Inheritance
+- Interfaces
+- Classes
+
+## Section 10 - Development tools
+- Webpack
+- Gulp
+- Grunt
+
+## Section 11 - Communication and protocols
+- Rest API
+- RPC Api
+- Web Sockets
+
+## Section 12 - Styling
+- SASS
+- LESS
+
+
