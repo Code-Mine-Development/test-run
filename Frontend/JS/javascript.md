@@ -5,7 +5,7 @@ Create simple application, using Java Script framework of your choice that will 
 ## Requirements
 1. Use SOLID principals
 2. Logic connected to eternal API should be extracted to the service layer.
-3. Search option that will utilize search capabilities of Flick API
+3. Search option that will utilize search capabilities of Flickr API
 4. List of images should show their square thumbnails
 5. After clicking the thumbnail, new view should be presented with larger version of the image and dynamic table that contains EXIF information.
 
