@@ -1,4 +1,4 @@
-#Android test task
+# Android test task
 
 Create simple activity that will utilize Flickr API to show photos.
 
